@@ -1,7 +1,5 @@
-# Trieu.phan
-
-## TyT Lession
-[Bài 12](documents/tyt_docs.md)
+# Bài 12: Đức Thánh Linh
+---
 ### Qua các phân đoạn KT được liệt kê: Giăng 14:16-17, 26; Giăng 16:7-8, 13-14, cho biết rằng
 a. Đức Thánh Linh được ai sai xuống?
 ```py
@@ -22,8 +20,7 @@ Giăng 16:13-14
 
 b. Đức Thánh Linh được gọi bằng nhưng danh xưng nào và những danh xưng đó bộc lộ những công việc gì của Ngài?
 
-    Đấng An Ủi: 
-        * Ở với chúng ta, dạy dỗ và nhắc lại mọi điều mà Chúa Jesus đã dạy
+    Đấng An Ủi: ở với chúng ta, dạy dỗ và nhắc lại mọi điều mà Chúa Jesus đã dạy
     Thần Chân Lý: 
         * An ủi lòng chúng ta - khỏi sự buồn lòng của sứ đồ vì Chúa Jesus đi về với Cha, 
         * Dẫn chúng ta vào những
